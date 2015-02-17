@@ -58,7 +58,7 @@
     - router_static
     - router_redis
     - sslrouter
-    - webdav
+    # - webdav
     - msgpack
     - transformation_chunked
     - transformation_gzip
